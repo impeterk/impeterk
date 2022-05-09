@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter. As of day writing this 25 years old. 
 ---
-- 🏫 Currently working on my degree in management @ economics
+- 🏫 Currently working on my degree in management & economics
 ---
 - 🌱 I’m currently learning javaScript and front end development in general.  
 I'm using Codecademy platform as my strating point.
