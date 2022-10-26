@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter. As of day writing this 25 years old. 
+- 👋 Hi, I’m Peter. As of day writing this 26 years old. 
 ---
 - 🏫 Currently working on my degree in management & economics
 ---
